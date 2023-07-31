@@ -1,1 +1,1 @@
-# minimize_standart_deviation
+# minimize_standart_deviatio
